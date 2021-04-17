@@ -1,3 +1,20 @@
+# learning-lab-write-docker-actions
+
+This repo was used during doing a GitHub learning labs course.
+
+To do the course : https://lab.github.com/githubtraining/github-actions:-write-docker-container-actions
+
+
+
+
+
+------------
+
+course content below
+
+------------
+
+
 # Welcome to your course 🎉
 
 ### Getting started
